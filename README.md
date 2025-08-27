@@ -7,7 +7,7 @@
 
 <H1>RECLAIMING THE COSMOS: Fostering a Connection to the Night Sky in the Scottish Highlands and Islands </H1>
 
-<i>Unity VR Project - Interactive Star Map of Community Asterisms created during Canna Naturefest 2025 on the Isle of Canna, UK as part of my MDES Design Innovation and Interaction Design Masters Project at the Glasgow School of Art. </i>
+<i>Unity VR Project - Interactive Star Map of Community Asterisms collected during Canna Naturefest 2025 on the Isle of Canna, UK as part of my MDES Design Innovation and Interaction Design Masters Project at the Glasgow School of Art. </i>
 
 <H3>Challenge</H3>
 Emerging technologies and scientific advancement provide greater access to the night sky, or ‘cosmos’ than ever before. Despite this, humanity and the more-than-human natural world has never experienced a greater disconnection from dark skies and to each other. As we reframe the cosmos as our ancestral commons, how might residents of the Scottish Highlands and Islands overcome the barriers that separate them from dark skies and “reclaim” their personal relationship with the night sky by creating their own personal or community asterisms (star stories)?
